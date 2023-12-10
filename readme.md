@@ -1,19 +1,19 @@
-# Bad Time Simulator (Sans Fight)
-This project is a clone of the sans fight from [Undertale](http://undertale.com/).
-It was made with [Construct 2](https://www.scirra.com/construct2).
+# Simulador de malos tiempos (Sans Fight)
+Este proyecto es un clon de la lucha sans de [Undertale] (http://undertale.com/).
+Fue hecho con [Construct 2] (https://www.scirra.com/construct2).
 
-NOW AVAILABLE! [Custom attacks guide](Documentation/README.MD)
------------------------------------------------------
+¡YA DISPONIBLE! [Guía de ataques personalizados](Documentación/README.MD)
+-------------------------------------------------- ---
 
-Known Issues
+Problemas conocidos
 ------------
-- Heart hitbox is probably not accurate.
-- On the sans_platforms4 and sans_platforms4hard attacks, the platform is supposed to accelerate from 0 to its full speed, but I was lazy and started it at full speed immediately. This is only a problem if you try to dodge the bones without jumping.
-- Sans dialog is missing. I may add something at some future date, but I have no intention of putting the original text in, as it really only makes sense in the context of the whole game.
+- El hitbox del corazón probablemente no sea exacto.
+- En los ataques sans_platforms4 y sans_platforms4hard, se supone que la plataforma acelera de 0 a su máxima velocidad, pero fui vago y la puse en marcha a máxima velocidad inmediatamente. Esto sólo es un problema si intentas esquivar los huesos sin saltar.
+- Falta el diálogo Sans. Puede que añada algo en el futuro, pero no tengo intención de incluir el texto original, ya que en realidad sólo tiene sentido en el contexto de todo el juego.
 
-Contact
+Contacto
 -------
-If you want to contact me for some reason, you can do so through the following:
+Si deseas contactarme por algún motivo, puedes hacerlo a través de lo siguiente:
 
-- ~~[Facepunch](https://facepunch.com/member.php?u=13155)~~ R.I.P. Facepunch
-- [Steam](http://steamcommunity.com/id/Jcw87/)
+- ~~[Facepunch](https://facepunch.com/member.php?u=13155)~~ Q.E.P.D. Puñetazo en la cara
+- [Vapor](http://steamcommunity.com/id/Jcw87/)
